@@ -25,4 +25,9 @@ nav {
     display: flex;
     align-items: center;
 }
-.banner .profile-pic {width: 1320mm;}
+.banner .profile-pic {width: 1320mm;
+    align-items: center;}
+.Profile Picture {
+    font-size: 1320mm;
+}
+
