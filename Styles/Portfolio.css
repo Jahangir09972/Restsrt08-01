@@ -17,3 +17,6 @@ body {
 nav {
     display: flex;
 }
+.banner {
+    padding: 10px 10px 10px 150px; 
+}
